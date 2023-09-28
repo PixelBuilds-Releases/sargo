@@ -1,1 +1,1 @@
-# PixelBuilds releases for Pixel 3a/XL aka sargo/bonito
+# PixelBuilds releases for the Google Pixel 3a aka sargo
